@@ -38,9 +38,13 @@ This project focuses on extracting meaningful patterns from a job listings datas
 ## 📁 Folder Structure
 📦job-market-analysis/
 ├── data/ # Raw and cleaned datasets
+
 ├── notebooks/ # Jupyter notebooks for EDA & analysis
+
 ├── visuals/ # Graphs and visualizations
+
 ├── README.md # Project overview
+
 └── requirements.txt # Python dependencies
 ---
 
@@ -53,12 +57,25 @@ This project focuses on extracting meaningful patterns from a job listings datas
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author & Contributors
 
-**Ashwin Kumar**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ashwin-kumar-9449b0164/) | 💼 Personal Banker turned Data Analyst | 🎓 Masai School - Data Science  
-**Manish Debnath**
-**Bhupendra Shivre**
+### ✨ [Ashwin Kumar](https://github.com/Ashwin1238-stack)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ashwin-kumar-9449b0164/)  
+💼 *Personal Banker turned Data Analyst*  
+🎓 *Masai School - Data Science*
+
+---
+
+### 🤝 [Manish Debnath](https://github.com/Manishdebnath99)  
+🎓 *Data Science Trainee at Masai School*  
+🔗 [LinkedIn](https://www.linkedin.com/in/manish-debnath-09778a331/) *(update if incorrect)*
+
+---
+
+### 🤝 [Bhupendra Shivre](https://github.com/shivharebhupendra)  
+🎓 *Data Science Trainee at Masai School*  
+🔗 [LinkedIn](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b/) *(update if incorrect)*
+
 ---
 
 ## 📌 Note
