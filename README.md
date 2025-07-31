@@ -37,6 +37,7 @@ This project focuses on extracting meaningful patterns from a job listings datas
 
 ## 📁 Folder Structure
 📦job-market-analysis/
+
 ├── data/ # Raw and cleaned datasets
 
 ├── notebooks/ # Jupyter notebooks for EDA & analysis
