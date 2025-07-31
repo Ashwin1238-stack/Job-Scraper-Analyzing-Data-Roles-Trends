@@ -45,7 +45,6 @@ This project focuses on extracting meaningful patterns from a job listings datas
 
 ├── README.md # Project overview
 
-└── requirements.txt # Python dependencies
 ---
 
 ## 📈 Sample Visualizations
@@ -68,13 +67,13 @@ This project focuses on extracting meaningful patterns from a job listings datas
 
 ### 🤝 [Manish Debnath](https://github.com/Manishdebnath99)  
 🎓 *Data Science Trainee at Masai School*  
-🔗 [LinkedIn](https://www.linkedin.com/in/manish-debnath-09778a331/) *(update if incorrect)*
+🔗 [LinkedIn](https://www.linkedin.com/in/manish-debnath-09778a331/) 
 
 ---
 
 ### 🤝 [Bhupendra Shivre](https://github.com/shivharebhupendra)  
 🎓 *Data Science Trainee at Masai School*  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b/) *(update if incorrect)*
+🔗 [LinkedIn](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b/) 
 
 ---
 
